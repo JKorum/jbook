@@ -18,10 +18,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@jkorum-jbook/local-client": "^1.0.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "http-proxy-middleware": "^1.0.6",
-    "@jkorum-jbook/local-client": "^0.1.0",
     "typescript": "^4.2.3"
   },
   "devDependencies": {
